@@ -2,7 +2,7 @@
 layout: post
 title:  "Kako se boriti sa teškim klijentima"
 date:   2013-12-01 15:53:34 +0200
-categories: arhiva
+categories: esej
 ---
 Skoro u svakoj poslovnoj sferi ćete se nekad susresti sa ljudima, odnosno sa klijentima, i generalno vrijedi ona stara dobra 'klijent je kralj' a samim tim i uvijek u pravu. No, da li je to baš uvijek tako, i da li treba pustiti nekoga da Vas ponižava samo zbog toga što je klijent? Lično se nikada nisam previše osjećao ugodno raditi nešto gdje bi bio u direktnom kontaktu sa ljudima (kad kažem ljudi, mislim na ljude kojima Vaša firma prodaje određene usluge ili proizvode). Ali zbog prirode firme u kojoj trenutno radim, upravo usluge podrške su sastavni dio poslovanja i prihoda. Tako da, sviđalo se meni to ili ne, bio sam primoran da s vremena na vrijeme razgovaram direktno sa klijentima kako bi riješio njihove probleme.
 

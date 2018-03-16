@@ -2,7 +2,7 @@
 layout: post
 title:  "Stigao router"
 date:   2011-04-01 15:53:34 +0200
-categories: arhiva
+categories: esej
 ---
 Ukoliko niste pročitali predhodna dva članka o ovoj temi, možete to OVDJE učiniti.
 

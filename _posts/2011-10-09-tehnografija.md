@@ -2,7 +2,7 @@
 layout: post
 title:  "Kraj početka - Tehnografija"
 date:   2011-10-09 15:53:34 +0200
-categories: arhiva
+categories: esej
 ---
 U prošlom članku sam nagovijestio mogućnost prebacivanja bloga u potpuno lični blog. Ovim postom je to i zvanično. Odsad ćete na ovom blogu moći čitati isključivo članke koji su odraz mog mišljenja na neke stvari, moja razmišljanja i ideje. Ovo svakako ne znači da ću prestati pisati o IT temama. Samo ću to raditi na drugoj lokaciji :) Zašto? Odgovor je jednostavan.
 

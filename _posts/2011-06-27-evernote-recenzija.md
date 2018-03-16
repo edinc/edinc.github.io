@@ -2,7 +2,7 @@
 layout: post
 title:  "Evernote recenzija"
 date:   2011-06-27 15:53:34 +0200
-categories: arhiva
+categories: recenzija
 ---
 Količina informacija koje pratimo, i koja nam je potrebna, i dalje raste. Trudimo se da podatke držimo organizovanim i dostupnim, ali bez pravog alata, taj posao može da bude itekako naporan.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Social Media Smrtovnice"
 date:   2011-05-31 15:53:34 +0200
-categories: arhiva
+categories: esej
 ---
 U ovom članku malo odstupam od tematike bloga. Ne volim pisati ovakve članke, ali jednostavno nisam mogao 'ne reći ništa', pa sam radi toga iskoristio blog.
 

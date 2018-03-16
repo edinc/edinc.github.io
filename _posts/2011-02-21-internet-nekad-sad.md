@@ -2,7 +2,7 @@
 layout: post
 title:  "Internet - nekad i sad"
 date:   2011-02-21 15:53:34 +0200
-categories: arhiva
+categories: esej
 ---
 Wikipedija kaže:
 

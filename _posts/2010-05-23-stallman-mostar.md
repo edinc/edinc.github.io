@@ -2,7 +2,7 @@
 layout: post
 title:  "Richard Stallman u Mostaru"
 date:   2010-05-23 13:18:34 +0200
-categories: arhiva
+categories: recenzija
 ---
 **Richard Matthew Stallman** je kontroverzni američki haker i programer, poznat kao tvorac [GNU] ideje, osnivač [Free Software Foundationa], aktivist slobodnog softwarea, te tvorac najpoznatije license za slobodni software [GNU GPL]. Čvrsto se odlučio suprostaviti, u to vrijeme, novonastalnom trendu. A to je software koji se plaća. Dao je poticaj slobodnom kodu, ne samo kao programer, nego i pravno, filozofski te medijski. Dobitnik je velikog broja prestižnih nagrada i 7 počasnih doktorata. Također se smatra jednim od 5 najpriznatijih hakera/programera svih vremena.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Microsoft Network - Rezime"
 date:   2011-03-20 15:53:34 +0200
-categories: arhiva
+categories: recenzija
 ---
 Odmah da vam kažem da ovo neće biti suhoparno izvještavanje tipa 'taj predavač je pričao o tome i tome', za ovo će se razni IT portali pobrinuti :) Iznijeću stvari onako kako sam ih ja doživio.
 

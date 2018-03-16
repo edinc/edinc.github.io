@@ -2,7 +2,7 @@
 layout: post
 title:  "Volonterski rad, ili kako steći iskustvo za posao"
 date:   2012-06-22 15:53:34 +0200
-categories: arhiva
+categories: esej
 ---
 Mnogi danas misle da je dovoljno završiti neki fakultet i odmah će moći naći posao i tu raditi do kraja života. Ta vremena su daleko iza nas. Kako se društvo i sve oko njega razvijalo, logično je bilo i da će se granice znanja i zahtjevi povećavati. Tako naprimjer danas skoro svaki poslodavac u raznim oglasima traži određeno iskustvo. Postavlja se pitanje kako neko ko je studirao 3 ili 4 godine i friško izlazi na tržište da nađe posao bez dana iskustva. Odgovor je vrlo jednostavan **volontirajte**. Iskustvo ne mora nužno biti zaposlenje u nekoj firmi, odnosno iskustvo je bilo kakav oblik rada.
 
