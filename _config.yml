@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Edin's Blog
-tagline:          'A Jekyll theme'
+tagline:          'Personal Blog'
 description:      'Malo o ovome, malo o onome. Najviše o svemu.'
 url:              http://blog.edinc.info
 baseurl:          /
@@ -22,4 +22,4 @@ paginate:         5
 plugins:             [jekyll-paginate]
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/edinc/edinc.github.io
