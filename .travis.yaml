@@ -1,0 +1,10 @@
+language: ruby
+rvm:
+  - 2.3.3
+sudo: required
+
+script:
+  - jekyll build
+
+notifications:
+  slack: tehnografija:yGLRFooashh7wutsGmMQFxou
