@@ -4,6 +4,7 @@ rvm:
 sudo: required
 
 script:
+  - gem install jekyll jekyll-paginate jekyll-seo-tag
   - jekyll build
 
 notifications:
