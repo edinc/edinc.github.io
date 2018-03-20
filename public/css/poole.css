@@ -117,7 +117,7 @@ strong {
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0rem;
 }
 
 dt {
@@ -331,6 +331,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 5px;
+  text-align: justify;
 }
 
 /* Blog post or page title */
