@@ -3,6 +3,7 @@ layout: post
 title:  "DebConf11 - rezime"
 date:   2011-08-02 15:53:34 +0200
 categories: recenzija
+author: Edin Cenanovic
 ---
 Nakon New Yorka domaćin ovogodišnje Debian konferencije (u daljem tekstu DebConf) je bila Banja Luka, što je veoma velika čast za ovaku malu, i informatički dosta nepismeni zemlju (ako izuzmemo Facebook, jel), kao što je Bosna i Hercegovina.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Windows 7 Tips and Tricks"
 date:   2010-06-10 16:29:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Windows 7 po Defaultu ima samo par tema spremnih za uređivanje. Ko nije zadovoljan sa ponuđenim temama može dobiti još dodadnih tema koje su ustvari "skrivene". Ove teme su dostupne za samo neke regije, kao npr. Australija, Kanada, Velika Britanija, Sjedinjene Države i Južna Afrika. Teme se mogu otključati na sljedeći način:
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Windows 7 Tips and Tricks"
 date:   2010-05-14 21:42:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 <img src="/assets/Windows7Banner.png" width="600" />
 

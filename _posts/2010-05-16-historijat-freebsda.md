@@ -3,6 +3,7 @@ layout: post
 title:  "Historijat FreeBSDa"
 date:   2010-05-16 18:40:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 FreeBSD je Unix-like slobodni operativni sistem koji vodi porjeklo iz AT&T UNIX-a  preko Berkeley Software Distribution (BSD) grane kroz 386BSD i 4.4BSD. Radi na procesorima kompatibilnim sa Intel x86 familijom procesora, kao i na DEC Alpha, UltraSPARC procesorima od Sun Microsystems, Itanium (IA-64), AMD64 i PowerPC procesorima. Radi i na PC-98 arhitekturi.
 

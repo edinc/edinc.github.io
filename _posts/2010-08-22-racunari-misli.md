@@ -3,6 +3,7 @@ layout: post
 title:  "Računari koji čitaju misli"
 date:   2010-08-22 23:07:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Nakon godišnjeg odmora se lagano vraćam opet pisanju, tako da od sad možete opet očekivati redovno pisanje članaka :)
 

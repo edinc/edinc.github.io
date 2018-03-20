@@ -3,6 +3,7 @@ layout: post
 title:  "Ponekad najmanje stvari znače najviše"
 date:   2013-12-24 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Pročitao sam nedavno sjajnu malu priču koja je ostavila mnogo traga kod mene i želim da je podijelim sa Vama:
 

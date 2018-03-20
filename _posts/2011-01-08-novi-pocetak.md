@@ -3,6 +3,7 @@ layout: post
 title:  "Novi početak?!"
 date:   2011-01-08 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Prvi post u novoj 2011 godini. Kao prvo želim svima čestitati novu godinu, s malim zakašnjenjem. Puno sreće i uspjeha. Razlog što tek sad čestitam novu godinu je nažalost mali, ali slatki godišnji odmor :)
 

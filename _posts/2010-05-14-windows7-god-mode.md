@@ -3,6 +3,7 @@ layout: post
 title:  "Windows 7 God Mode"
 date:   2010-05-14 17:48:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 God Mode je skriveni “advanced kontrol panel” na Windows 7.  Najkraće rečeno God Mod vam objedinjuje većinu funkcija iz Control Panela u jednu “easy-to-use” formu. Isprobajte sami, sve što treba da uradite jeste:
 1. Kreirati novi folder bilo gdje

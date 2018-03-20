@@ -3,6 +3,7 @@ layout: post
 title:  "Linux uvod i instalacija"
 date:   2010-11-19 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Dosadili su Vam razni virusi/trojanci/crvići? Ne želite da se mučite s raznoraznim licencama? Želite jednostavan operativni sistem, za pregledavanje mail-ova, za surfanje, i još mnogo toga. Koji je uz to još i atraktivan i **besplatan**. Možda biste u tom slučaju trebali pokušati s linuxom :)
 

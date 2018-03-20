@@ -3,6 +3,7 @@ layout: post
 title:  "Šta bi napravio Google?"
 date:   2011-01-17 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Zar to nije pitanje koji bi svako od nas trebao sebi postaviti? Google, po mnogima najuspješnija tvrtka ikad, nam daje smjernice kako biti uspješan, i kako uspješno poslovati. Inspiraciju za članak sam dobio čitanjem knjige 'Što bi napravio Google' (eng. What would Google do) autora [Jeff Jarvisa].
 

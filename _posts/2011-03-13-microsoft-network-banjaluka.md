@@ -3,6 +3,7 @@ layout: post
 title:  "Microsoft Network - Banja Luka"
 date:   2011-03-13 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Nakon najave DebConfa11 za juli 2011, Bosna i Hercegovina će biti domaćin još jedne velike IT konferencije. Riječ je o Microsoft Network konferenciji, koja će se održavati 17. i 18. ovog mjeseca u Banja Luci. Ovo je ujedno i prva višednevna konferencija pod pokroviteljstvom Microsofta u Bosni i Hercegovini.
 

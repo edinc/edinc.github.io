@@ -3,6 +3,7 @@ layout: post
 title:  "Zašto Twitter?"
 date:   2011-01-13 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Twitter je društvena mreža/mirkobloging servis pomoću koje pišete kratke poruke (do 140 karaktera), tzv. 'tvitovi'. Te poruke su vidjljive svakome, ako to nije definisano drugačije. Praćenjem (follow) određenih ljudi ili servisa dolazite do raznih informacije.
 

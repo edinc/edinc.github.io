@@ -3,6 +3,7 @@ layout: post
 title:  "Mala upustva za prvu pomoć (prvi dio)"
 date:   2010-09-05 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Vaš računar je možda dizajniran da učini vaš život lakšim, ali često ti isti računari imaju dosta problema. Danas ću pisati o najčešćim problemima, i kako da ih se rješite :)
 

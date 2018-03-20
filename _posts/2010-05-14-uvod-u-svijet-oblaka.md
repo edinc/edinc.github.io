@@ -3,6 +3,7 @@ layout: post
 title:  "Uvod u svijet Oblaka"
 date:   2010-05-14 19:42:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Cloud (obak) computing je koncept podjele software-a koji koristi Internet kao platformu. Cloud u ovom slučaju predstavlja sam Internet. Omogućava da aplikacije i dokumenti iz bilo kojeg dijela svijeta budu pohranjeni i čuvani na određenim serverima. Ova vrsta web bazirane usluge nas oslobađa kupovanja stalno novih računara i software-a. Pristup Cloud Computing podacima odvija se putem Internetskih preglednika (browsera), ili aplikacija predviđenih za to.
 

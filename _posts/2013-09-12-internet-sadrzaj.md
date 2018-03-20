@@ -3,6 +3,7 @@ layout: post
 title:  "Kako konzumiram sadržaj sa interneta"
 date:   2013-09-12 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Već neko vrijeme nisam ovdje ništa objavio. Razloga je mnogo. Od volje, do promjene posla i fokusa na neke druge stvari. Nakupilo se dosta nekih stvari o kojima bih mogao pisati, ali jednostavno dinamični protekli mjeseci mi nisu dali da spojim sve te misli u jednu cjelinu, ali se situacija malo smirila i nadam se da će tekstovi opet biti redovniji. Činjenica da nisam pisao nije značilo da svo ovo vrijeme nisam čitao. Čitao sam dosta (kao i do sad) i svašta. I to me navelo na razmišljanje kako ljudi ustvari danas konzumiraju vijesti i nove informacije. U narednim redovima ću Vam dati nekoliko servisa i stranica na kojih sam najviše pročitao zanimljivih stvari, priča i činjenica. Siguran sam da će se među ovim servisima naći i nekoliko koji će biti zanimljivi, i iz kojih ćete čuti nešto novo i interesantno.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Dodavanje aplikacija u Windows Desktop Right-Click Menu"
 date:   2010-12-08 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Ako želite brz pristup aplikacijama koje često koristite a da iste nisu u obliku ikona na Desktopu, možete aplikacije dodadi meniju koji aktivirate desnim klikom miša s jednostavnim 'registry hackom'. Evo kako ćete to učiniti.
 

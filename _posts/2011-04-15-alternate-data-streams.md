@@ -3,6 +3,7 @@ layout: post
 title:  "Alternate Data Streams"
 date:   2011-04-15 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 U NTFS file sistemu, file se sastoji od različitih file streamova. Jedan stream sadrži informacije o sigurnosti, drugi sadrži 'stvarne podatke' koje očekujete da se nalaze u fileu. Alternate Data Stream (u daljem tekstu ADS) je jedan od streamova koji je vrlo opasan. **On je skriven**. Možete imati file od 1 KB u 'standardnom' data streamu, i na njega prikačen ADS od stotinjak MB. File manager ili explorer će prikazivati onaj 1KB standardnog data streama.
 

@@ -19,7 +19,9 @@ author:
 paginate:         5
 
 # Custom vars
-plugins:             [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
 
 github:
   repo:           https://github.com/edinc/edinc.github.io

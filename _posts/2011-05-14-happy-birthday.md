@@ -3,6 +3,7 @@ layout: post
 title:  "Happy Birthday"
 date:   2011-05-14 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Danas, prije tačno godinu dana, sam zaplovio u svijet blogosfere. Sve je krenulo kao pilot projekt mladog entuzijaste koji je želio da podijeli nešto s ostatkom svijeta. U ovom članku ću pisati malo o svom blogerskom napretku u pretklih godinu dana, i pokušaću dati par savjeta za sadašnje/buduće blogere.
 

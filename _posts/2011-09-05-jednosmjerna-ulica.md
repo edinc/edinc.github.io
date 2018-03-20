@@ -3,6 +3,7 @@ layout: post
 title:  "Jednosmjerna ulica ili ipak ne?"
 date:   2011-09-05 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Sjedim u busu, putujući za Mostar. Sve je kao uvijek. Slušalice u ušima, dere Incubus, random ljudi ulaze i izlaze. Kroz prozor isti prizori, tri godine ista ruta. Ali nešto 5 i po satni put uvijek učini zanimljivim, a to nešto su ljudi. I tako svaka vožnja busom sa sobom nosi i neku svoju priču.
 

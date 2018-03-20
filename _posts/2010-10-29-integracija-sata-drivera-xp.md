@@ -3,6 +3,7 @@ layout: post
 title:  "[HOW TO] Integracija SATA drivera u Windows XP"
 date:   2010-10-29 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Da li Vam se ikad desilo da prilikom instalacije Windows Xp-a dođe do greške 'Setup did not find any hard disk drives installed in your computer' ?!
 

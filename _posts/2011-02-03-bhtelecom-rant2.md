@@ -3,6 +3,7 @@ layout: post
 title:  "Pomak? Zamalo..."
 date:   2011-02-03 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Prvo, želim da se zahvalim svim prijateljima, tviterašima, facebookašima i drugima koji su proširili link članka o BHTelecomu. Članak je oborio sve rekorde bloga, po svim parametrima. Zahvaljujući Vama, jedan domaći portal (protest.ba) je također „zalutao“ na blog, te preuzeo članak i objavio ga.
 

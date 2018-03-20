@@ -3,6 +3,7 @@ layout: post
 title:  "Google; Navika, ljenost ili nužno zlo"
 date:   2012-12-20 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Zamislite scenario u kom vas neko pita šta je gramatika. Naravno, svi imaju odgovor na ovo pitanje. Šta je sa onima koji nemaju, ili čak sa onima koji nisu sigurni u svoj odgovor? Otvoriće pretraživač na računaru i ukucati u Google 'gramatika'. Ovo sam uzeo samo kao primjer, ali upravo ovako je sa svim stvarima. **Sjećate li uopće kako ste dolazili do informacija prije Google-a?** Ja onako kroz maglu. Google se pojavio 1998 godine. Te godine sam ja imao 8 godina i stari je iz Njemačke 'dovukao' naš prvi računar, koji je tad bio nekih nebuloznih 2000-3000 njemačkih maraka.
 

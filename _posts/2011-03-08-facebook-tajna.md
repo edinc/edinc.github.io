@@ -3,6 +3,7 @@ layout: post
 title:  "Tajna Facebookovog uspjeha"
 date:   2011-03-08 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Facebook je najveća društvena mreža na svijetu, sa preko 500 miliona aktivnih korisnika. Vrijednost mu se danas procjenjuje na oko 60 milijardi dolara. I oba ova parametra su u stalnom porastu. Jeste li se kad zapitali kako je Facebook došao tu gdje jeste? Koja je tajna njegovog uspjeha? Pokušaču pomoću par jednostavnih faktora da otkrijem tu tajnu.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Dokle više dragi BHTelekomu?"
 date:   2011-01-28 15:53:34 +0200
 categories: esej
+author: Edin Cenanovic
 ---
 Prije nekih mjesec i pol dana sam odlučio da zamjenim svoj stari router za wireless router. Dva laptopa i mobitel koji podržavaju wireless, pa mi nekako bi logično da iskoristim tu „uslugu“.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "Novi zakon zaustavlja provjeru Facebook profila u Njemačkoj"
 date:   2010-08-24 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 <img src="/assets/facebook-logo.jpg" width="600" />
 

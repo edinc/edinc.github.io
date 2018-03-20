@@ -3,6 +3,7 @@ layout: post
 title:  "Kako izbrisati Facebook profil?"
 date:   2011-01-11 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Dosadio vam je Facebook. No, strah vas je da, ako se samo deaktivirate, vaše privatne stvari i podaci ostaju na Facebooku. Potstoji jednostavan način, koji ću vam pokazati,  kako Facebook profil izbrisati trajno. Napominjem da trajnim brizanjem profil nestaje, kao i svi podaci na njemu. Slijede upute za trajno brisanje:
 

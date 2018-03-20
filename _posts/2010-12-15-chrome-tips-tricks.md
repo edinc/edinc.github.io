@@ -3,6 +3,7 @@ layout: post
 title:  "Some Google Chrome Tips & Tricks"
 date:   2010-12-15 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Kako je Google Chrome postaje sve popularniji, odlučio sam se da Vam predstavim par tipova i trikova, koji će vaše surfanje internetom učiniti ugodnijim i bržim.
 

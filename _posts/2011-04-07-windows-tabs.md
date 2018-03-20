@@ -3,6 +3,7 @@ layout: post
 title:  "Tabovi u Windows 7"
 date:   2011-04-07 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Naletih na zanimljiv programčić koji pravi tabove u Windows Exploreru. Odmah sam ga instalirao i testirao, a pritom i napisao mali review. Možda nekome bude od koristi ovaj programčić.
 

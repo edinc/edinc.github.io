@@ -3,6 +3,7 @@ layout: post
 title:  "Facebook testira novi način autentifikacije"
 date:   2011-01-26 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Facebook marljivo prati vrijeme i mjesto vaših logovanja na profil. Prvenstveno radi eventualnih malverizacija profila. Ako se naprimjer ulogujete u Njemačkoj, pa onda nakon sat vremena u Australiji, Facebook će putem određenih formulara pokušati utvrditi vaš identitet. Do sad su to radili s klasičnim „captcha“ obrascima (odnosno nasumice birane riječi i izrazi, koje morate tačno upisati u odgovarajuće polje) i ličnim pitanjima.
 

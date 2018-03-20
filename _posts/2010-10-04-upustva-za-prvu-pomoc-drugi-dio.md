@@ -3,6 +3,7 @@ layout: post
 title:  "Mala upustva za prvu pomoć (drugi dio)"
 date:   2010-10-04 15:53:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 Prošli put sam pisao o nekim najčešćim Windows problemima, i njihovom rješavanju. Predlažem da prvo pročitate taj članak, naravno ako to već niste uradili. Slijedi drugi dio:
 

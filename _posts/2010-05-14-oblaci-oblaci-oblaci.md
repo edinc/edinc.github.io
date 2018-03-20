@@ -3,6 +3,7 @@ layout: post
 title:  "Oblaci oblaci oblaci"
 date:   2010-05-14 20:42:34 +0200
 categories: arhiva
+author: Edin Cenanovic
 ---
 U prošlom člankusam pisao o osnovnim karakteristikama Cloud Computinga. Ovaj put ću pisati malo detaljnije o “oblacima”, također ću spomenuti i sigurnost kod Cloud Computinga.
 
