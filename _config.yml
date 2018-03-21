@@ -10,7 +10,7 @@ title:            Edin's Blog
 tagline:          'Personal Blog'
 description:      'Malo o ovome, malo o onome. Najviše o svemu.'
 url:              http://blog.edinc.info
-baseurl:          /
+baseurl:          ""
 
 author:
   name:           'Edin Cenanovic'
